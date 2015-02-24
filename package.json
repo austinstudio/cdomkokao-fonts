@@ -1,0 +1,19 @@
+{
+  "name": "cdomkokao-fonts",
+  "version": "0.0.1",
+  "description": "Collection of my favorite fonts.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://cdomkokao@github.com/cdomkokao/cdomkokao-fonts.git"
+  },
+  "author": "Corey O'Brien <austinstudio@gmail.com> (https://github.com/cdomkokao)",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/cdomkokao/cdomkokao-fonts/issues"
+  },
+  "homepage": "https://github.com/cdomkokao/cdomkokao-fonts"
+}
