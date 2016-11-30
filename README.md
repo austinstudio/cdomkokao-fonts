@@ -2,7 +2,6 @@
 
 ## Why?
 I needed a collection of my favorite fonts and other helper scripts that I had a hard time collecting from other packages on npm.
-=========
 
 ## What is Included?
 This package includes the following fonts:
