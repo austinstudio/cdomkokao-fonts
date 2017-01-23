@@ -1,6 +1,6 @@
 {
   "name": "cdomkokao-fonts",
-  "version": "0.4.0",
+  "version": "0.5.0",
   "description": "Collection of my favorite fonts.",
   "main": "index.js",
   "scripts": {
